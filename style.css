@@ -80,7 +80,7 @@ p{
 #content{
   background-color: white;
   padding: 2%;
-  margin: 22vh 30vw;
+  margin: 22vh 10vw;
 }
 
 #content .word{
@@ -142,4 +142,10 @@ p{
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+}
+
+@media screen and (min-width: 764px){
+  #content{
+    margin: 22vh 30vw;
+  }
 }
