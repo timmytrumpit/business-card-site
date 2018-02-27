@@ -61,6 +61,8 @@ p{
   font-family: 'Source Sans Pro', sans-serif;
   font-weight: bold;
   font-size: 20px;
+	text-align: center;
+	line-height: 30px;
 }
 
 #logo{
@@ -86,14 +88,19 @@ p{
 #content .word{
   height: 2vh;
   margin-bottom: 0;
+	width: 100%;
 }
 
 #content .word{
   cursor: url('images/ok-hand.png'), auto;
 }
 
+#content .punctuation{
+	display: none;
+}
+
 #contact{
-  padding-top: 7vh;
+  bottom: 2vh;
 }
 
 #contact a{
@@ -145,17 +152,22 @@ p{
 }
 
 @media screen and (min-width: 764px){
+
+	p{
+		text-align: left;
+		line-height: normal;
+	}
+
   #content{
     margin: 22vh 30vw;
   }
 
-	.punctuation{
-		display: hidden;
-	}
-
 	#content .word{
-		width: 100%;
+		width: auto;
 	}
 
+	#content .punctuation{
+		display: inline-block;
+	}
 
 }
