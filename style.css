@@ -88,9 +88,9 @@ p{
   margin-bottom: 0;
 }
 
-/*#content .word{
-  cursor: url('/Users/timknott/Documents/General/portfolio site/interim site/images/ok-hand.png'), auto;
-}*/
+#content .word{
+  cursor: url('images/ok-hand.png'), auto;
+}
 
 #contact{
   padding-top: 7vh;
