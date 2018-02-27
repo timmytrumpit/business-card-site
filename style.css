@@ -50,7 +50,7 @@ table {
 
 
 body{
-  background: url('/Users/timknott/Documents/General/portfolio site/interim site/images/chris-coe-407337.jpg') no-repeat center center fixed;
+  background: url('images/chris-coe-407337.jpg') no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -121,7 +121,7 @@ p{
 }
 
 .web-active{
-  background: url('/Users/timknott/Documents/General/portfolio site/interim site/images/MacbookPro15inch_Mockup.png') no-repeat center center fixed;
+  background: url('images/MacbookPro15inch_Mockup.png') no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -129,7 +129,7 @@ p{
 }
 
 .ui-active{
-  background: url('/Users/timknott/Documents/General/portfolio site/interim site/images/Perspective App Screens Mock-Up.png') no-repeat center center fixed;
+  background: url('images/Perspective App Screens Mock-Up.png') no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -137,7 +137,7 @@ p{
 }
 
 .graphic-active{
-  background: url('/Users/timknott/Documents/General/portfolio site/interim site/images/2017_Macbook_Mockup.png') no-repeat center center fixed;
+  background: url('images/2017_Macbook_Mockup.png') no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
