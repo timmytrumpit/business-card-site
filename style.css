@@ -82,7 +82,7 @@ p{
 #content{
   background-color: white;
   padding: 2%;
-  margin: 22vh 10vw;
+  margin: 11vh 5vw 20vh 5vw;
 }
 
 #content .word{
@@ -100,7 +100,7 @@ p{
 }
 
 #contact{
-  bottom: 2vh;
+  bottom: 3vh;
 }
 
 #contact a{
