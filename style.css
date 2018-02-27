@@ -148,4 +148,14 @@ p{
   #content{
     margin: 22vh 30vw;
   }
+
+	.punctuation{
+		display: hidden;
+	}
+
+	#content .word{
+		width: 100%;
+	}
+
+
 }
