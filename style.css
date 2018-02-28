@@ -91,9 +91,9 @@ p{
 	width: 100%;
 }
 
-#content .word{
+/*#content .word{
   cursor: url('images/ok-hand.png'), auto;
-}
+}*/
 
 #content .punctuation{
 	display: none;
