@@ -50,7 +50,7 @@ table {
 
 
 body{
-  background: url('images/chris-coe-407337.jpg') no-repeat center center fixed;
+  background: url('images/chris-coe-407337_opt.jpg') no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -128,7 +128,7 @@ p{
 }
 
 .web-active{
-  background: url('images/MacbookPro15inch_Mockup.png') no-repeat center center fixed;
+  background: url('images/MacbookPro15inch_Mockup_opt.jpg') no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -136,7 +136,7 @@ p{
 }
 
 .ui-active{
-  background: url('images/Perspective App Screens Mock-Up.png') no-repeat center center fixed;
+  background: url('images/Perspective App Screens Mock-Up_opt.jpg') no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -144,7 +144,7 @@ p{
 }
 
 .graphic-active{
-  background: url('images/2017_Macbook_Mockup.png') no-repeat center center fixed;
+  background: url('images/2017_Macbook_Mockup_opt.jpg') no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
