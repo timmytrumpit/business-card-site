@@ -50,7 +50,9 @@ table {
 
 
 body{
-  background: url('images/chris-coe-407337_opt.jpg') no-repeat center center fixed;
+  /*background: url('images/chris-coe-407337_opt.jpg') no-repeat center center fixed;*/
+	background: url('images/IMG_9480.jpg') no-repeat top center fixed;
+
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
